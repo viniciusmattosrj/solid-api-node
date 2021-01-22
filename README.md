@@ -28,7 +28,7 @@ Para instalação verifique **[installation documentation](docs/installation.md)**
 
 ### Débitos Técnicos / Próximos Desafios
 
-- [ ] Adicionar o dotEnv para que as configs não fiquem marretadas no código
+- [ ] Adicionar o dotEnv para que as configs não fiquem fixas no código
 - [ ] Alterar a pasta useCases para Application
 - [ ] Conectar a database
 - [ ] Incluir um docker-compose.example.yml
