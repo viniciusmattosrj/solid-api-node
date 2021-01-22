@@ -20,11 +20,11 @@ Esse projeto é base de estudo para melhor compressão na prática dos conceitos de
 
 Veja `.env.example` as [instruções](docs/installation.md) sobre as variáveis de ambiente.
 
-Ã‰ possÃ­vel importar as `.collections` atravÃ©s do [collections](docs/collections.json) que contÃ©m querys/mutations/subscriptions.
+É possível importar as `.collections` através do [collections](docs/collections.json) que contém querys/mutations/subscriptions.
 
 ### Instalação
 
-Para instalaÃ§Ã£o verifique **[installation documentation](docs/installation.md)**.
+Para instalação verifique **[installation documentation](docs/installation.md)**.
 
 ### Débitos Técnicos / Próximos Desafios
 
